@@ -15,8 +15,10 @@
   <p>F7. ADC registeres catch analog input A0 to adjust duty cycle register OCR1A.</p>
   <p>F8. PWM frequency to be adjusted with register ICR1.</p>
   <p>F9. Pulse width updates take place in ISR TIMER1_COMPA vector.</p>
+  <p>F10. Schematic and BOM: 20250502 - SCH - UI_PWM.pdf</p>
 <br></br>
 <p><b>By: Javier.</b></p>
+<p>Glad to advise your project:</p>
 <p>Portfolio: https://sites.google.com/view/b-eng-jarl/home</p>
 <p>Arduino Forums: j4v13r_987</p>
 <p>GitHub: J4v1987</p>
