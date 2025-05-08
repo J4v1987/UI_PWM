@@ -1,8 +1,7 @@
+![VID_20250501_182939-1](https://github.com/user-attachments/assets/a6f327e0-b4f8-488e-938b-ae60d63f4643)
+![20250502 - SCH - UI_PWM](https://github.com/user-attachments/assets/45304b94-ca26-4ae6-9653-ccf67df62e68)
 # UI_PWM
 <h2>Arduino Nano: potentiometer-driven fast PWM implementation</h2>
-![VID_20250501_182939-1](https://github.com/user-attachments/assets/a6f327e0-b4f8-488e-938b-ae60d63f4643)
-<br></br>
-![20250502 - SCH - UI_PWM](https://github.com/user-attachments/assets/45304b94-ca26-4ae6-9653-ccf67df62e68)
 <br></br>
 <h3><b>Design considerations:</b></h3>
   <p>G1. Nominal topology shall operate with mains 127VAC @ 60Hz.</p>
